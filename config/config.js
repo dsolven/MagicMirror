@@ -61,9 +61,9 @@ var config = {
 			position: 'top_right',
 			header: 'Weather Forecast',
 			config: {
-	            		location: 'San Jose, US',
-				locationID: '5128581',  //ID from http://www.openweathermap.org
-	            		appid: '0ba349f4ccea75ab68af9852d0cff152'
+				location: 'San Jose, US',
+				locationID: '',  //ID from http://www.openweathermap.org
+				appid: '0ba349f4ccea75ab68af9852d0cff152'
 			}
 		},
 		// {
